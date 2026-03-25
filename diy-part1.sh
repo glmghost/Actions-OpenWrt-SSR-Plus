@@ -25,6 +25,6 @@
 #sed -i '$a src-git smpackage https://github.com/kenzok8/small-package' feeds.conf.default
 sed -i '$a src-git jell https://github.com/kenzok8/jell' feeds.conf.default
 #sed -i '$a src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' feeds.conf.default
-sed -i '$a src-git oppackages https://github.com/kiddin9/op-packages.git' feeds.conf.default
+#sed -i '$a src-git oppackages https://github.com/kiddin9/op-packages.git' feeds.conf.default
 #sed -i '$a src-git helloworld https://github.com/fw876/helloworld.git' feeds.conf.default
 #sed -i '$a src-git naiveproxy https://github.com/klzgrad/naiveproxy.git' feeds.conf.default
